@@ -1,6 +1,6 @@
 cask "ennuienoir" do
-  version "0.11.1"
-  sha256 "7ddc1d62d388e73537dad111486faaea41d10e9c554950ec1443c2f59a75d6ba"
+  version "0.11.2"
+  sha256 "9daf33425f76dad797501cb3922b41220c5549d6481d78f8298a01ed4e4ce711"
 
   url "https://github.com/echecnoir11/ennuienoir/releases/download/v#{version}/ennuienoir-#{version}.zip"
   name "@@ennuienoir"

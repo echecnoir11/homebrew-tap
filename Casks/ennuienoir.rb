@@ -1,6 +1,6 @@
 cask "ennuienoir" do
-  version "0.36.1"
-  sha256 "860e7b9c57154405df3e0a25d2d72276ab489f24e7d8e884ad672e4b3392f147"
+  version "0.37.0"
+  sha256 "80df4156ce296f23b5d78f25379a0b766bf010b32a97af02cb7f8e58545e858d"
 
   url "https://releases.ennuienoir.app/#{version}/ennuienoir-#{version}.zip"
   name "@@ennuienoir"
@@ -30,3 +30,4 @@ cask "ennuienoir" do
     open System Settings › Privacy & Security and click "Open Anyway".
   EOS
 end
+

@@ -1,6 +1,6 @@
 cask "ennuienoir" do
-  version "0.38.1"
-  sha256 "67a6ab2371edd108624d208161008753584b8f808031f8b5b56f97cea101d0c6"
+  version "0.38.2"
+  sha256 "61284e70722dd389e7b1c5487be22dbe29df1a827f9a14f9869389dcffe8f1aa"
 
   url "https://releases.ennuienoir.app/#{version}/ennuienoir-#{version}.zip"
   name "@@ennuienoir"
